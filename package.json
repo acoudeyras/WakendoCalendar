@@ -1,9 +1,9 @@
 {
-    "name": "KendoCalendar",
-    "studioName": "KendoCalendar",
-    "category": "Custom Widgets",
+    "name": "WakendoCalendar",
+    "studioName": "WakendoCalendar",
+    "category": "Kendo Widgets",
     "iconPath": "/icons/widget.png",
-    "author": "Widget Developer",
+    "author": "Alexis Coudeyras",
     "contributors": [
         "Alexis Coudeyras"
     ],
@@ -18,9 +18,9 @@
     "license": "MIT",
     "loadDependencies": [
         {"id": "Widget_V2"},
-		{"id": "KendoCore/package.json", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-		{"id": "KendoCore/lib/telerik.kendoui.core/js/kendo.calendar.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-        {"id": "KendoCalendar/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-        {"id": "KendoCalendar/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
+	{"id": "WakendoCore/package.json", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+	{"id": "WakendoCore/lib/telerik.kendoui.core/js/kendo.calendar.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "WakendoCalendar/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "WakendoCalendar/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
     ]
 }
