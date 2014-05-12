@@ -1,7 +1,7 @@
-WAF.define('KendoCalendar', ['waf-core/widget', 'kendoCore', 'kendoHelpers'], function(widget, $, helpers) {
+WAF.define('WakendoCalendar', ['waf-core/widget', 'wakendoCore', 'kendoHelpers'], function(widget, $, helpers) {
 	'use strict';
 	
-    var KendoCalendar = widget.create('KendoCalendar', {
+    var KendoCalendar = widget.create('WakendoCalendar', {
     	
     	value: widget.property({
     		type: 'string'
