@@ -11,9 +11,9 @@
     "copyright": "(c) 2014 Widget Developer",
     "repository": {
         "type": "git",
-        "url": "https://github.com/developer/Widget.git"
+        "url": "https://github.com/acoudeyras/WakendoCalendar.git"
     },
-    "keywords": ["wakanda", "widget"],
+    "keywords": ["wakanda", "widget", "calendar"],
     "engines": {"wakanda": ">= 8"},
     "license": "MIT",
     "loadDependencies": [
