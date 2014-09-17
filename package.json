@@ -13,6 +13,7 @@
         "type": "git",
         "url": "https://github.com/acoudeyras/WakendoCalendar.git"
     },
+    "externalWidgets" : ["https://github.com/acoudeyras/WakendoCore.git"],
     "keywords": ["wakanda", "widget", "calendar", "kendo"],
     "engines": {"wakanda": ">= 8"},
     "license": "MIT",
