@@ -14,7 +14,8 @@
         "url": "https://github.com/acoudeyras/WakendoCalendar.git"
     },
     "keywords": ["wakanda", "widget", "calendar", "kendo"],
-    "engines": {"wakanda": ">= 8"},
+    "engines": {"wakanda": ">= 9"},
+    "externalWidgets" : ["WakendoCore"],
     "license": "MIT",
     "loadDependencies": [
         {"id": "Widget_V2"},
